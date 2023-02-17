@@ -1,5 +1,5 @@
-### Hi there 👋
-
+### Hi there, it's me 👋
+---
 📫 hi@foreda.dev
 
 <!--
